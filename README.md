@@ -1,6 +1,6 @@
 # Who am I?
 
-Hi! I'm an IT professional with over 15 years of experience in the industry. I've done a little bit of everything from infrastructure management to scripting and automation.
+Hi! I'm an IT professional with over 15 years of experience in the industry. I've done a little bit of everything. From infrastructure management, to scripting and automation.
 
 ## What is this git for?
 
